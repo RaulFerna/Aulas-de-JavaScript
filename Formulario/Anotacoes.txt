@@ -1,0 +1,5 @@
+addEventListener irá passar o evento para o objeto, no caso sendo "login";
+event.preventDefault() serve para evitar que recarregue a pagina ao enviar os arquivos.
+fromEntries pega todos os atributos, os inputs do forms, convertendo para Json(Exibição dos dados capturados ao enviar, os objeto);
+getFullYear pega a data e o ano no qual está sendo acessado o site;
+Date() pega a data do dia em que está sendo acessado o site, já Date(parametros) pega a data do 
